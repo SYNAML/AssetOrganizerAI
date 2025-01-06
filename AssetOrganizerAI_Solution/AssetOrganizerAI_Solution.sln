@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IVAssetAnalyst", "IVAssetAnalyst\IVAssetAnalyst.csproj", "{C0742CF9-DB92-4BEB-BBEC-072A49A600A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IVAICore", "IVAICore\IVAICore.csproj", "{D2B4A5D9-6A4E-48E4-BB88-544ABD6094C4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DigitalAssetAnalyzer", "DigitalAssetAnalyzer\DigitalAssetAnalyzer.pyproj", "{C96DB816-334B-443C-A1AB-BE3316E86BC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0742CF9-DB92-4BEB-BBEC-072A49A600A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0742CF9-DB92-4BEB-BBEC-072A49A600A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0742CF9-DB92-4BEB-BBEC-072A49A600A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0742CF9-DB92-4BEB-BBEC-072A49A600A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B4A5D9-6A4E-48E4-BB88-544ABD6094C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B4A5D9-6A4E-48E4-BB88-544ABD6094C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B4A5D9-6A4E-48E4-BB88-544ABD6094C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B4A5D9-6A4E-48E4-BB88-544ABD6094C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C96DB816-334B-443C-A1AB-BE3316E86BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96DB816-334B-443C-A1AB-BE3316E86BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

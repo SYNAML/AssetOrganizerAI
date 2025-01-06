@@ -1,0 +1,10 @@
+
+{
+  "ModelPaths": {
+    "ImageModel": "models/image_model.onnx",
+    "TextModel": "models/text_model.onnx"
+  },
+  "Database": {
+    "ConnectionString": "YourDatabaseConnectionStringHere"
+  }
+}
